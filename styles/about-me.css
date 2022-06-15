@@ -1,0 +1,43 @@
+.aboutme-description {
+  margin-left: 6%;
+}
+.aboutme-description h1 {
+  font-family: "Heebo";
+  font-size: 85px;
+  line-height: 30px;
+  font-weight: 900;
+}
+
+.aboutme-description p {
+  font-family: "Heebo";
+  font-size: 31px;
+  font-weight: 400;
+}
+
+.aboutme-content {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  gap: 70px;
+}
+
+.aboutme-text {
+  margin: 0px 0px 0px 6%;
+  font-family: "Heebo";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.about-me-text-700 {
+    font-weight: 700;
+}
+.aboutme-picture {
+  width: 50%;
+  margin: 0px 6% 0px 0px;
+}
+
+.aboutme-picture > img {
+  height: 680px;
+  width: 626px;
+}
