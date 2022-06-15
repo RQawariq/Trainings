@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
+
+.tools-container {
+  margin-left: 6%;
+}
+.tools-details {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.tools-container > h1 {
+  font-family: Heebo;
+  font-size: 31px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  font-family: "Heebo";
+  font-weight: 500;
+  line-height: 35px;
+}
+
+.lefted {
+  text-align: left;
+  padding-right: 100px;
+}
+
+.th-fonted {
+  font-family: "Heebo";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+td {
+  font-family: "Heebo";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+td:not(:first-child) {
+  padding-right: 20px;
+}
+
+.tools-styled-text {
+  width: 40%;
+  margin-right: 6%;
+  font-family: "Grape Nuts";
+  font-size: 55px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: right;
+}
+
+.normal-texted {
+  font-family: "Heebo";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+}
