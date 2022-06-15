@@ -1,0 +1,40 @@
+.footer-container {
+    display:flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    width: 100%;
+    background-color:black;
+    height: 230px;
+    align-items: center;
+}
+
+.footer-text {
+    margin-left: 6%;
+    color:white;
+    font-family: Heebo;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.styled-footer-text {
+    font-family: Heebo;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 35px;
+}
+
+.footer-links {
+    margin-right: 6%;
+    color:white;
+}
+
+.white-links {
+    display:flex;
+    gap: 50px;
+}
+
+.white-links img {
+    height: 25px;
+    width: 25px;
+}
