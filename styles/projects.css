@@ -1,0 +1,57 @@
+.projects-description {
+    margin-left: 6%;
+}
+
+.projects-description h1 {
+    font-family: "Heebo";
+    font-size: 85px;   
+    line-height: 30px;
+    font-weight: 900;
+}
+
+.projects-description p {
+    font-family: "Heebo";
+    font-size: 31px; 
+}
+
+.projects-details {
+    display:flex;
+    justify-content: space-around;
+}
+
+.projects-card {
+    height: 450px;
+    display:flex;
+    flex-direction:column;
+}
+
+.font-size-24px {
+    font-size:24px;
+}
+
+.font-size-15px {
+    font-size:15px;
+}
+
+.project-buttons {
+    display:flex;
+    justify-content: space-between;
+}
+
+.button {
+    box-sizing: border-box;
+    border: solid 1px black;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+}
+
+.weight-700 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.weight-400 {
+    font-size: 24px;
+    font-weight: 400;
+}
